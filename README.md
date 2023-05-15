@@ -2,32 +2,32 @@
 
 ## Table of contents
 
-1. ###### [Technology Used]
+1. Technology Used
 
-2. ###### [EER Diagram]
+2. EER Diagram
  
-3. ###### [Functionalities]
+3. Functionalities
 
-4. ###### [Postman Commands]
+4. Postman Commands
 
 
 
 
 ## Techonology Used
 
-- ###### Java
+- Java
 
-- ###### Spring Boot
+- Spring Boot
 
-- ###### Hibernate
+- Hibernate
 
-- ###### RESTful APIS
+- RESTful APIS
 
-- ###### Maven
+- Maven
 
-- ###### My SQL
+- My SQL
 
-- ###### Postman
+- Postman
 
 
 
