@@ -159,7 +159,5 @@
 2. Seat locking during payment
 3. Multiple Screen handling in theater
 4. Payment Flow
-5. Login and User Account Management
-6. Authentication and Authorization
 
 	
